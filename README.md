@@ -1,5 +1,5 @@
-# Assigment - Product aggregator microservice
-
+# Product aggregator microservice (showcase)
+## Project has been modified just for showcase purpose, it is not functional at this moment for keeping third parties out of context, which are required for functionality.
 
 ## Project structure
 
